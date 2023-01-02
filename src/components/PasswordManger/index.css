@@ -1,0 +1,26 @@
+.bg {
+  background-color: #9ba9eb;
+
+  background-size: cover;
+}
+.add-container {
+  background-color: #5763a5;
+
+  background-size: cover;
+  width: 80%;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  margin: 25px;
+}
+.password-form-container {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.input-icon {
+  width: 30px;
+}
+.passwordManger {
+  width: 400px;
+}
